@@ -68,6 +68,6 @@ I am a passionate **Software Engineer** with an M.Sc. in Computer Science & Soft
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otduman&theme=radical&hide_border=true" alt="Duman's GitHub Streak" width="48%" />
 </p>
