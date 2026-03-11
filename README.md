@@ -52,7 +52,7 @@ I am a passionate **Software Engineer** with an M.Sc. in Computer Science & Soft
 
 ### 🚀 Featured Projects
 
-* **[Real-Time Market Notifier](https://github.com/otduman/your-repo-link-here)**  
+* **[Real-Time Market Notifier](https://github.com/otduman/market-notifier)**  
   Engineered a high-throughput crypto price alerting pipeline consuming Binance WebSocket streams natively with Reactor Netty. Utilized **Kafka (KRaft)** for reliable event-driven messaging and **Redis Sorted Sets** for price history, exposing real-time windows via a REST API.
 
 * **Java Web Application with Spring Boot 3**  
