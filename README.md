@@ -69,5 +69,7 @@ I am a passionate **Software Engineer** with an M.Sc. in Computer Science & Soft
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otduman&theme=radical&hide_border=true" alt="Duman's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otduman&theme=radical&hide_border=true" alt="Duman's GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otduman&theme=radical&hide_border=true&layout=compact" alt="Duman's Top Languages" height="165" />
 </p>
+
