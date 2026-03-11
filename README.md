@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Duman Otarbayev 👋</h1>
-<h3 align="center">Software Engineer | Backend Specialist | M.Sc. in Computer Science</h3>
+<h1 align="left">Hi there, I'm Duman Otarbayev 👋</h1>
+<h3 align="left">Software Engineer | Backend Specialist | M.Sc. in Computer Science</h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:otarbayevduman@gmail.com"><img src="https://img.shields.io/badge/Email-otarbayevduman%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/dumanotarbayev"><img src="https://img.shields.io/badge/LinkedIn-dumanotarbayev-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://cv-website-ecru-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel&logoColor=white"></a>
