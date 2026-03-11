@@ -1,7 +1,7 @@
-<h1 align="left">Hi there, I'm Duman Otarbayev 👋</h1>
-<h3 align="left">Software Engineer | Backend Specialist | M.Sc. in Computer Science</h3>
+<h1 align="center">Hi there, I'm Duman Otarbayev 👋</h1>
+<h3 align="center">Software Engineer | Backend Specialist | M.Sc. in Computer Science</h3>
 
-<p align="left">
+<p align="center">
   <a href="mailto:otarbayevduman@gmail.com"><img src="https://img.shields.io/badge/Email-otarbayevduman%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/dumanotarbayev"><img src="https://img.shields.io/badge/LinkedIn-dumanotarbayev-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://cv-website-ecru-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -66,7 +66,7 @@ I am a passionate **Software Engineer** with an M.Sc. in Computer Science & Soft
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otduman&theme=radical&hide_border=true" alt="Duman's GitHub Streak" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otduman&theme=radical&hide_border=true&layout=compact" alt="Duman's Top Languages" height="165" />
 </p>
